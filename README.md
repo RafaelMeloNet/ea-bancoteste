@@ -9,6 +9,10 @@ A proposta é representar, em alto nível, como diferentes domínios e sistemas 
 - Explorar a aplicação de **frameworks de arquitetura** (TOGAF, DDD).
 - Relacionar processos de negócio com suas **capacidades e fluxos de valor**.
 
+## Documentação BancoTeste
+
+- [Exercício](BancoTeste.md)
+
 ## Estrutura
 
 - **src/** → Documento original Draw.io contendo os diagramas e textos originais.  
